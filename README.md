@@ -2,11 +2,18 @@
 InDesign-Script to find domains in a document and set hyperlinks in a efficient way
 
 ## Description
-The Script displays a Find/Link window. Similar to a Find/Change- or Search/Replace function. 
+The script displays a Find/Link window. Similar to a Find/Change- or Search/Replace function. 
 But it searches for domain or URL patterns and proposes an URL to set a yyperlink on the found text.
 In one version a part of the tracking link ist made of the woodwing studio publication and issue.
 The script checks first if signed in at one of two supported servers (can be changed below) and checks all articles out.
 In the other version—the tracking infomration can be left empty or be defined at l46/47. It works without Woodwing Studio.
+
+![alt text](https://github.com/patricedaniel/FindAndLink/blob/main/FindAndLinkGUI.png?raw=true)
+
+
+## Requirements
+Tested in Adobe InDesign 2022.
+FindAndLink_UTMfromIssue.jsx works only together with Woodwing Studio for InDesign (any version).
 
 ## Installation
 https://helpx.adobe.com/indesign/using/scripting.html
