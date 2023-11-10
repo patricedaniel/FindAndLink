@@ -35,8 +35,8 @@ SOFTWARE.
 ////////////////////////////////////////////////////////////
 // Change to your Studio servers and tracking link source //
 ////////////////////////////////////////////////////////////
-var serverUrl1 = "https://migvmm38.dc.migros.ch/StudioServer";
-var serverUrl2 = "http://migvmm48.dc.migros.ch/StudioServer";
+var serverUrl1 = "https://myserver/StudioServer";
+var serverUrl2 = "https://myserver2/StudioServer";
 var UTMsource = "?utm_source=yourSource&utm_medium=referral&utm_campaign=";
 
 var sessionObject = app.entSession;
