@@ -3,7 +3,7 @@ InDesign-Script to find domains in a document and set hyperlinks in a efficient 
 
 ## Description
 The script displays a Find/Link window. Similar to a Find/Change- or Search/Replace function. 
-But it searches for domain or URL patterns and proposes an URL to set a yyperlink on the found text.
+But it searches for domain or URL patterns and proposes an URL to set a Hyperlink on the found text.
 In one version a part of the tracking link ist made of the woodwing studio publication and issue.
 The script checks first if signed in at one of two supported servers (can be changed below) and checks all articles out.
 In the other version—the tracking infomration can be left empty or be defined at l46/47. It works without Woodwing Studio.
